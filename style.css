@@ -1,0 +1,30 @@
+body{
+    background-color: skyblue;
+    text-align: center;
+}
+body > h1 {
+    display: flex;
+    background-color: khaki;
+    justify-content: center;  
+    width: 20%; 
+    margin: auto;
+    text-decoration: underline 3px;
+    border: solid 2px;
+    padding-bottom: 10px;
+    
+}
+
+body > div {
+border: 2px dashed black;
+text-decoration: underline 2px;
+color: black;
+background-color: khaki;
+display: flex;
+width: 90vw;
+margin: auto;
+height: 80vh;
+flex-wrap: wrap;
+justify-content: center;
+margin-top: 20px;
+
+}
