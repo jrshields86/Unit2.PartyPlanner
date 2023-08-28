@@ -4,7 +4,7 @@ body{
 }
 body > h1 {
     display: flex;
-    background-color: khaki;
+    background-color: tan;
     justify-content: center;  
     width: 20%; 
     margin: auto;
@@ -18,7 +18,7 @@ body > div {
 border: 2px dashed black;
 text-decoration: underline 2px;
 color: black;
-background-color: khaki;
+background-color: tan;
 display: flex;
 width: 90vw;
 margin: auto;
